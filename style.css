@@ -2,7 +2,13 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
 
 .fab {
   font-size: 32px;
+}
+.position {
+  top: 100px;
+  right: 40px;
+  position: absolute;
 }
